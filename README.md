@@ -1,3 +1,2 @@
-# deploy a docker image o PAAS
+# deploy an Alpine image on PAAS
 
-![image](http://www.deploy-project.eu/images/deploy-logo.jpg)
