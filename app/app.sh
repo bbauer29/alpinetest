@@ -1,43 +1,98 @@
-echo 'ZWNobyAnewogICAgImxvZyI6IHsKICAgICAgICAibG9nbGV2ZWwiOiAid2FybmluZyIKICAgIH0s
-CiAgICAiaW5ib3VuZHMiOiBbCiAgICAgICAgewogICAgICAgICAgICAicG9ydCI6ICckUE9SVCcs
-CiAgICAgICAgICAgICJwcm90b2NvbCI6ICJ2bGVzcyIsCiAgICAgICAgICAgICJzZXR0aW5ncyI6
-IHsKICAgICAgICAgICAgICAgICJjbGllbnRzIjogWwogICAgICAgICAgICAgICAgICAgIHsKICAg
-ICAgICAgICAgICAgICAgICAgICAgImlkIjogIickaWQnIiwKICAgICAgICAgICAgICAgICAgICAg
-ICAgImZsb3ciOiAieHRscy1ycHJ4LWRpcmVjdCIKICAgICAgICAgICAgICAgICAgICB9CiAgICAg
-ICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgImRlY3J5cHRpb24iOiAibm9uZSIsCiAgICAg
-ICAgICAgICAgICAiZmFsbGJhY2tzIjogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAg
-ICAgICAgICAgICAgICAgImRlc3QiOiAzMDAxCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAg
-ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJwYXRoIjogIi90cm9qYW4i
-LAogICAgICAgICAgICAgICAgICAgICAgICAiZGVzdCI6IDMwMDIKICAgICAgICAgICAgICAgICAg
-ICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgInBhdGgi
-OiAiL3ZtZXNzIiwKICAgICAgICAgICAgICAgICAgICAgICAgImRlc3QiOiAzMDAzCiAgICAgICAg
-ICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICB9LAogICAgICAgICAg
-ICAic3RyZWFtU2V0dGluZ3MiOiB7CiAgICAgICAgICAgICAgICAibmV0d29yayI6ICJ0Y3AiCiAg
-ICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgInBvcnQiOiAzMDAx
-LAogICAgICAgICAgICAibGlzdGVuIjogIjEyNy4wLjAuMSIsCiAgICAgICAgICAgICJwcm90b2Nv
-bCI6ICJ2bGVzcyIsCiAgICAgICAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJj
-bGllbnRzIjogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAg
-ImlkIjogIickaWQnIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0sCiAg
-ICAgICAgICAgICAgICAiZGVjcnlwdGlvbiI6ICJub25lIgogICAgICAgICAgICB9LAogICAgICAg
-ICAgICAic3RyZWFtU2V0dGluZ3MiOiB7CiAgICAgICAgICAgICAgICAibmV0d29yayI6ICJ3cyIs
-CiAgICAgICAgICAgICAgICAic2VjdXJpdHkiOiAibm9uZSIKICAgICAgICAgICAgfQogICAgICAg
-IH0sCiAgICAgICAgewogICAgICAgICAgICAicG9ydCI6IDMwMDIsCiAgICAgICAgICAgICJsaXN0
-ZW4iOiAiMTI3LjAuMC4xIiwKICAgICAgICAgICAgInByb3RvY29sIjogInRyb2phbiIsCiAgICAg
-ICAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJjbGllbnRzIjogWwogICAgICAg
-ICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgInBhc3N3b3JkIjogIickaWQn
-IgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgfSwK
-ICAgICAgICAgICAgInN0cmVhbVNldHRpbmdzIjogewogICAgICAgICAgICAgICAgIm5ldHdvcmsi
-OiAid3MiLAogICAgICAgICAgICAgICAgInNlY3VyaXR5IjogIm5vbmUiLAogICAgICAgICAgICAg
-ICAgIndzU2V0dGluZ3MiOiB7CiAgICAgICAgICAgICAgICAgICAgInBhdGgiOiAiL3Ryb2phbiIK
-ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgewogICAg
-ICAgICAgICAicG9ydCI6IDMwMDMsCiAgICAgICAgICAgICJsaXN0ZW4iOiAiMTI3LjAuMC4xIiwK
-ICAgICAgICAgICAgInByb3RvY29sIjogInZtZXNzIiwKICAgICAgICAgICAgInNldHRpbmdzIjog
-ewogICAgICAgICAgICAgICAgImNsaWVudHMiOiBbCiAgICAgICAgICAgICAgICAgICAgewogICAg
-ICAgICAgICAgICAgICAgICAgICAiaWQiOiAiJyRpZCciCiAgICAgICAgICAgICAgICAgICAgfQog
-ICAgICAgICAgICAgICAgXQogICAgICAgICAgICB9LAogICAgICAgICAgICAic3RyZWFtU2V0dGlu
-Z3MiOiB7CiAgICAgICAgICAgICAgICAibmV0d29yayI6ICJ3cyIsCiAgICAgICAgICAgICAgICAi
-c2VjdXJpdHkiOiAibm9uZSIsCiAgICAgICAgICAgICAgICAid3NTZXR0aW5ncyI6IHsKICAgICAg
-ICAgICAgICAgICAgICAicGF0aCI6ICIvdm1lc3MiCiAgICAgICAgICAgICAgICB9CiAgICAgICAg
-ICAgIH0KICAgICAgICB9CiAgICBdLAogICAgIm91dGJvdW5kcyI6IFsKICAgICAgICB7CiAgICAg
-ICAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIgogICAgICAgIH0KICAgIF0KfScgPiBjb25maWcu
-anNvbgoKLi93ZWIgLWNvbmZpZz1jb25maWcuanNvbgo=' | base64 -d | sh
+echo '{
+    "log": {
+        "loglevel": "warning"
+    },
+    "inbounds": [
+        {
+            "port": '$PORT',
+            "protocol": "vless",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "'$id'",
+                        "flow": "xtls-rprx-direct"
+                    }
+                ],
+                "decryption": "none",
+                "fallbacks": [
+                    {
+                        "dest": 3001
+                    },
+                    {
+                        "path": "/trojan",
+                        "dest": 3002
+                    },
+                    {
+                        "path": "/vmess",
+                        "dest": 3003
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp"
+            }
+        },
+        {
+            "port": 3001,
+            "listen": "127.0.0.1",
+            "protocol": "vless",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "'$id'"
+                    }
+                ],
+                "decryption": "none"
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "none"
+            }
+        },
+        {
+            "port": 3002,
+            "listen": "127.0.0.1",
+            "protocol": "trojan",
+            "settings": {
+                "clients": [
+                    {
+                        "password": "'$id'"
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "none",
+                "wsSettings": {
+                    "path": "/trojan"
+                }
+            }
+        },
+        {
+            "port": 3003,
+            "listen": "127.0.0.1",
+            "protocol": "vmess",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "'$id'"
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "none",
+                "wsSettings": {
+                    "path": "/vmess"
+                }
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "freedom"
+        }
+    ]
+}' > config.json
+
+./web -config=config.json
